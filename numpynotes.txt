@@ -1,0 +1,12 @@
+https://www.w3schools.com/python/numpy/numpy_array_shape.asp
+https://numpy.org/doc/stable/reference/generated/numpy.array.html
+https://www.hackertrail.com/talent/backend/numpy-interview-questions-answers/
+
+https://www.w3schools.com/python/numpy/numpy_random_binomial.asp
+
+https://www.w3schools.com/python/numpy/numpy_random_poisson.asp
+https://pandas.pydata.org/docs/getting_started/overview.html
+https://matplotlib.org/stable/api/index.html
+
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+https://stackoverflow.com/questions/42684530/convert-a-column-in-a-python-pandas-from-string-month-into-int
